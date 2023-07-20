@@ -1,0 +1,12 @@
+C:\Users\cherb\Desktop\ShopApp\ShopApp\ShopApp\bin\x64\Debug\ShopApp.exe.config
+C:\Users\cherb\Desktop\ShopApp\ShopApp\ShopApp\bin\x64\Debug\ShopApp.exe
+C:\Users\cherb\Desktop\ShopApp\ShopApp\ShopApp\bin\x64\Debug\ShopApp.pdb
+C:\Users\cherb\Desktop\ShopApp\ShopApp\ShopApp\obj\x64\Debug\ShopApp.csproj.AssemblyReference.cache
+C:\Users\cherb\Desktop\ShopApp\ShopApp\ShopApp\obj\x64\Debug\ShopApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\cherb\Desktop\ShopApp\ShopApp\ShopApp\obj\x64\Debug\ShopApp.Form1.resources
+C:\Users\cherb\Desktop\ShopApp\ShopApp\ShopApp\obj\x64\Debug\ShopApp.Properties.Resources.resources
+C:\Users\cherb\Desktop\ShopApp\ShopApp\ShopApp\obj\x64\Debug\ShopApp.csproj.GenerateResource.cache
+C:\Users\cherb\Desktop\ShopApp\ShopApp\ShopApp\obj\x64\Debug\ShopApp.csproj.CoreCompileInputs.cache
+C:\Users\cherb\Desktop\ShopApp\ShopApp\ShopApp\obj\x64\Debug\ShopApp.exe
+C:\Users\cherb\Desktop\ShopApp\ShopApp\ShopApp\obj\x64\Debug\ShopApp.pdb
+C:\Users\cherb\Desktop\ShopApp\ShopApp\ShopApp\obj\x64\Debug\ShopApp.Form2.resources
